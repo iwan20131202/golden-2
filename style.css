@@ -1,0 +1,27 @@
+.cssc{
+    width: 274px;
+    height: 185px;
+  
+
+}
+.logo{
+    width: 162px;
+height: 47px;
+
+}
+.lililili{
+    width: 75px;
+height: 41px;
+
+
+}
+.nav{ color: yellow;
+    display: flex;
+    align-items:  flex-end;
+    justify-content: end;
+    gap: 30px;
+}
+.h11{
+    display: flex;
+    justify-content: center;
+}
